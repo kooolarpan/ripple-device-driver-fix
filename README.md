@@ -17,4 +17,6 @@ And extract the drivers and install them.
 ## Download Driver for your own model
 Replace YOURMODELNUMBER with your actual laptop model number
 
-https://www.clevo.com.tw/en/e-services/download/ftpOut.asp?Lmodel=YOURMODELNUMBER&ltype=9&submit=+GO+
+https://www.clevo.com.tw/e-service/download/ftpOut.asp?Lmodel=YOURMODELNUMBER&ltype=9&submit=+GO+
+
+https://www.clevo.com.tw/e-service/download/ftpOut.asp?Lmodel=NHxxHJHKx&ltype=9&submit=+GO+
